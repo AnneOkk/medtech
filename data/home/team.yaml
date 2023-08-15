@@ -12,33 +12,33 @@ content:
   list:
     - text: Prof. Dr. Eva Lermer 
       client: Professor of Organizational Psychology, Hochschule Augsburg, PI of the Human-AI-Interaction Lab
-      image: "images/eva.png"
+      image: "images/Eva.png"
       
     - text: Dr. Anne-Kathrin Kleine
       client: Postdoctoral Researcher at LMU Munich, PI of the Human-AI-Interaction Lab
-      image: "images/anne.png"
+      image: "images/Anne.png"
 
     - text: Dr. Eesha Kokje
       client: Postdoctoral Researcher at LMU Munich
-      image: "images/eesha.png"
+      image: "images/Eesha.png"
       
     - text: Julia Cecil
       client: PhD Student at LMU Munich
-      image: "images/julia.png"
+      image: "images/Julia.png"
 
     - text: Dr. Susanne Gaube
       client: Assistant Professor at University College London, Associated Researcher
-      image: "images/susanne.png"
+      image: "images/Susanne.png"
       
     - text: Dr. Timo Koch
       client: Postdoctoral Researcher at St. Gallen University, Associated Researcher
-      image: "images/timo.png"
+      image: "images/Timo.png"
     - text: Pia Hummelsberger
       client: Associated Researcher
-      image: "images/pia.png"
+      image: "images/Pia.png"
     - text: Anna Heinrich
       client: Associated Researcher
-      image: "images/anna.png"
+      image: "images/Anna.png"
       
   buttons: 
     - label: "Up"
