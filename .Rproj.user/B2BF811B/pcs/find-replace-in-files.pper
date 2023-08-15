@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "localhost",
+        "query": "hero",
         "path": "",
         "regex": false,
         "caseSensitive": false,
