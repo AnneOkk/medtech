@@ -12,7 +12,7 @@ params:
   title: "MedTech"
   description: "The AI & Health Science Festival is a transformative project aiming to promote dialogue around the use of AI in healthcare. It brings together students, professionals, and developers for an exchange of insights and ethical implications surrounding AI in the medical field."
   images:
-    - "images/artificial-heart.png"
+    - "static/images/artificial-heart.png"
 
   logo: "arrow-up.png"
 
