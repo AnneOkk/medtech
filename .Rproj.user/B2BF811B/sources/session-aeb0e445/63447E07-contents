@@ -2,7 +2,6 @@
 title: "Contact"
 date: "2023-07-25"
 ---
-You can contact us here!
 
 <div markdown="0">
 <form method="post" action="https://forms.un-static.com/forms/0b98e912e597baf07503eb78bbffed543d5e5fc8">
@@ -40,7 +39,6 @@ You can contact us here!
     </div>
   </div>
   <div class="text-center">
-    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
   </div>
 </form>
 </div>

@@ -1,26 +1,26 @@
 {
-    "id": "A1D7D1F6",
-    "path": "~/Dropbox/Reporting/science_comm/config.yaml",
-    "project_path": "config.yaml",
+    "id": "BE9D8E25",
+    "path": "~/Dropbox/Reporting/science_comm/data/medtech/portfolio.yaml",
+    "project_path": "data/medtech/portfolio.yaml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1692088396452.0,
+    "created": 1692097580246.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 10,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "66,20",
-        "scrollLine": "51"
+        "cursorPosition": "16,4",
+        "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1692096113,
+    "lastKnownWriteTime": 1691750935,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1692096113434,
+    "last_content_update": 1691750935,
     "read_only": false,
     "read_only_alternatives": []
 }

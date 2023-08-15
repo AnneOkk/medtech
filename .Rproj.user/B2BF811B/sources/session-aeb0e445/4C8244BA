@@ -3,7 +3,7 @@
     "path": "~/Dropbox/Reporting/science_comm/data/home/hero.yaml",
     "project_path": "data/home/hero.yaml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "2272730577",
     "contents": "",
     "dirty": false,
     "created": 1692093278960.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,0",
+        "cursorPosition": "13,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1692093472,
+    "lastKnownWriteTime": 1692099659,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1692093472369,
+    "last_content_update": 1692099659086,
     "read_only": false,
     "read_only_alternatives": []
 }
