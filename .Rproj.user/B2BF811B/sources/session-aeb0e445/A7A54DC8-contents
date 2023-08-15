@@ -21,7 +21,7 @@ content:
         learn how AI tools are developed - from identifying a problem to data collection, model development, testing, 
         and validation. They will also learn about the crucial role of implementation science and the role of regulatory 
         agencies in guaranteeing the safety and efficiency of these new technologies.
-      #button:
+      button:
         #label: "Learn more"
         #url: "#"
 
@@ -49,8 +49,3 @@ content:
       button:
         #label: "Learn more"
         #url: "#"
-  buttons: 
-    - label: "Up"
-      url: "/#hero"
-      class: "border-button"
-      image: "images/up-arrow.png"

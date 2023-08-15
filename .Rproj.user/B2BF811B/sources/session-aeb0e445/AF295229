@@ -1,26 +1,26 @@
 {
-    "id": "0D2BBB18",
-    "path": "~/Dropbox/Reporting/science_comm/data/home/cta.yaml",
-    "project_path": "data/home/cta.yaml",
+    "id": "AF295229",
+    "path": "~/Dropbox/Reporting/science_comm/data/home/detailsfest.yaml",
+    "project_path": "data/home/detailsfest.yaml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1692099674061.0,
+    "created": 1692100006740.0,
     "source_on_save": false,
-    "relative_order": 15,
+    "relative_order": 8,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,18",
-        "scrollLine": "0"
+        "cursorPosition": "51,2",
+        "scrollLine": "36"
     },
     "folds": "",
-    "lastKnownWriteTime": 1692099679,
+    "lastKnownWriteTime": 1692100070,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1692099679154,
+    "last_content_update": 1692100070819,
     "read_only": false,
     "read_only_alternatives": []
 }
