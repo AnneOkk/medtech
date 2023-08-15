@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "up-business-theme",
+        "query": "localhost",
         "path": "",
         "regex": false,
         "caseSensitive": false,
@@ -9,7 +9,7 @@
         "useGitGrep": true,
         "excludeGitIgnore": true,
         "excludeFilePatterns": [],
-        "resultsCount": 1,
+        "resultsCount": 3,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true
