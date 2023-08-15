@@ -28,17 +28,17 @@ content:
 
     - text: Dr. Susanne Gaube
       client: Assistant Professor at University College London, Associated Researcher
-      image: "images/Susanne.png"
+      image: "images/susanne.png"
       
     - text: Dr. Timo Koch
       client: Postdoctoral Researcher at St. Gallen University, Associated Researcher
       image: "images/Timo.png"
     - text: Pia Hummelsberger
       client: B.Sc. Psychology, Associated Researcher
-      image: "images/Pia.png"
+      image: "images/pia.png"
     - text: Anna Heinrich
       client: M.Sc. Psychology, Associated Researcher
-      image: "images/Anna.png"
+      image: "images/anna.png"
       
   buttons: 
     - label: "Up"
