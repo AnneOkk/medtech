@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Exploring the use of **AI in healthcare**"
+  text: "Sharing and dicussing scientific and practical insights with academics, technology developers, and healthcare practitioners."
+
+  buttonPrimary:
+    label: "MedTechFest"
+    url: "#medtechfest"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+

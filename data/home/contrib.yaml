@@ -1,0 +1,12 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "
+  "
+  items:
+    - "images/lmu.png"
+    - "images/toronto.png"
+    - "images/regensburg.png"
+    - "images/MIT.png"
+    - "images/ucl.png"
