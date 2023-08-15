@@ -38,7 +38,7 @@ params:
 menus:
   main:
     - name: "Home"
-      url: "/#home"
+      url: "/#hero"
       weight: 1
 
     - name: "MedTechFest"
@@ -65,7 +65,7 @@ menus:
 
   footer:
     - name: "Home"
-      url: "/#home"
+      url: "/#hero"
       weight: 1
 
     - name: "MedTechFest"

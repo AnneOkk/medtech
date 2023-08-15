@@ -1,9 +1,9 @@
 {
     "id": "4C8244BA",
-    "path": "~/Dropbox/Reporting/science_comm/data/home/home.yaml",
-    "project_path": "data/home/home.yaml",
+    "path": "~/Dropbox/Reporting/science_comm/data/home/hero.yaml",
+    "project_path": "data/home/hero.yaml",
     "type": "yaml",
-    "hash": "4083735595",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1692093278960.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,9",
+        "cursorPosition": "15,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1692093286,
+    "lastKnownWriteTime": 1692093472,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1692093286,
+    "last_content_update": 1692093472369,
     "read_only": false,
     "read_only_alternatives": []
 }
