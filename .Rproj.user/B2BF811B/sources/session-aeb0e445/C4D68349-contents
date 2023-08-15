@@ -34,10 +34,10 @@ content:
       client: Postdoctoral Researcher at St. Gallen University, Associated Researcher
       image: "images/Timo.png"
     - text: Pia Hummelsberger
-      client: Associated Researcher
+      client: B.Sc. Psychology, Associated Researcher
       image: "images/Pia.png"
     - text: Anna Heinrich
-      client: Associated Researcher
+      client: M.Sc. Psychology, Associated Researcher
       image: "images/Anna.png"
       
   buttons: 
