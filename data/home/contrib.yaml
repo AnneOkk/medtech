@@ -6,7 +6,7 @@ content:
   "
   items:
     - "images/lmu.png"
-    - "images/toronto.png"
-    - "images/regensburg.png"
-    - "images/MIT.png"
-    - "images/ucl.png"
+    #- "images/toronto.png"
+    #- "images/regensburg.png"
+    #- "images/MIT.png"
+    #- "images/ucl.png"
