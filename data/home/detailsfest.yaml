@@ -8,16 +8,16 @@ content:
     - image: "images/services-web-development.png"
       title: "Keynote Talks"
       text: |
-        We invite experts from different medical fields to give talks and presentations about how they use AI in their fields, 
+        We invite experts from different medical fields and AI experts to give talks and presentations about how they use AI in their fields, 
         showcasing real-life case studies. 
       #button:
         #label: "Learn more"
         #url: "#"
 
     - image: "images/services-web-development.png"
-      title: "MedTechFactory"
+      title: "MedTech Exhibition"
       text: |
-        On their tour through the MedTechFactory, visitors may
+        On their tour through the MedTech Exhibition, visitors may
         learn how AI tools are developed - from identifying a problem to data collection, model development, testing, 
         and validation. They will also learn about the crucial role of implementation science and the role of regulatory 
         agencies in guaranteeing the safety and efficiency of these new technologies.
@@ -42,10 +42,17 @@ content:
         #label: "Learn more"
         #url: "#"
     - image: "images/services-web-development.png"
-      title: "Start-up hub"
+      title: "Networking Space"
       text: |
-        Local MedTech entrepreneurs pitch their AI-based healthcare start-up ideas to the audience. 
-        In a Q&A, visitors can ask their questions.     
+        In a dedicated networking space, local MedTech entrepreneurs pitch their AI-based healthcare start-up ideas to the audience. 
+        Visitors may learn more about potential career paths that connect medical knowledge with the power of AI.  
+      button:
+        #label: "Learn more"
+        #url: "#"
+    - image: "images/services-web-development.png"
+      title: "Open Space"
+      text: |
+        In an Open Space, students may present their own insights and opinions about AI for healthcare using different formats, such as posters or presentations. There will be an award for the best contribution.
       button:
         #label: "Learn more"
         #url: "#"
